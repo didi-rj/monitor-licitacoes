@@ -1,0 +1,3 @@
+cd C:\monitor_licitacoes
+python buscar.py   	(inicia a busca no portal)
+python app.py		(roda o app pra criar a lista na pagina de internet.)

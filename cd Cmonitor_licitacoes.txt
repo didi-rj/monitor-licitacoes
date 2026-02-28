@@ -1,0 +1,2 @@
+cd C:\monitor_licitacoes
+python buscar.py
